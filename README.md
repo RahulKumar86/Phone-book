@@ -5,3 +5,4 @@ Displayp: Is our mainpage to display details which are directly fetched from the
 Insertp: To insert data directly in our database from the form.
 Updatep: To update/edit details, which can be accessed from the "Displayp" page.
 Deletep: To delete data from our database.
+Databasess: This image gives an idea about how a database is created.
